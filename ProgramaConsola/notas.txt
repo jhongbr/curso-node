@@ -1,0 +1,7 @@
+         /*const tareas = new Tareas();
+        const tarea = new Tarea('Aprender Node');
+
+        tarea._listado[tarea.id] = tarea;
+
+        console.log(tarea);
+        console.log(tareas)*/
